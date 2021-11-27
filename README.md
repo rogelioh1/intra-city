@@ -53,4 +53,4 @@ Choose to stay with Tot in Chapter 1. Get the exit ending. Return to the title s
 # Hidden features:
 Entering “debug” in the title screen will allow the user to start the game from a certain chapter number. Useful for testing chapters without having to restart the entire game.\
 Entering "remember" in the title screen will unlock the flag for the true ending. This also changes some dialogue. \
-If name field is left empty when asked, Tot will name the player. This alters certain dialogue but has no effect on overall story. \
+If name field is left empty when asked, Tot will name the player. This alters certain dialogue but has no effect on overall story. 
