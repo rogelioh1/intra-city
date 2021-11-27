@@ -19,7 +19,7 @@ Secretary – Chief’s secretary. An airhead.
 
 # Text:
 
-Yellow text signifies a character. Green text refers to player character. Blue text signifies a tutorial or decision. Red text signifies an important decision that will change the ending.
+Yellow text signifies a character. Green text refers to player character. Blue text signifies a tutorial or decision. Red text signifies an important decision that will change the ending (doesn't count death endings).
 
 
 # Endings:
