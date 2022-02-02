@@ -12,9 +12,9 @@ Player – A newly spawned person. Has no memories of past life. \
 Tot – A patrol squad member. Like player, has zero memory of past life. \
 Archaea – Was a microbiology student in past life. Is friends with Tot. \
 Professor – Was a medical school professor in past life. Runs the University and commands the Patrol. Unlike Chief, he wants to leave the city.\
-Hunter – Was a hunter in past life. Captain of the Highway Guard. \
+Hunter – Captain of the Highway Guard. \
 Riot – Was a cop in past life. Second-in-command to Hunter. \
-Chief – Leader of city. Controls city supplies and commands everyone. Established order during times of chaos. Stubborn to let anyone try to leave.\
+Chief – Leader of city. Controls city supplies and commands everyone. Established order during times of chaos. Stubborn to let anyone attempt to leave.\
 Secretary – Chief’s secretary. An airhead.
 
 # Text:
@@ -23,7 +23,7 @@ Yellow text signifies a character. Green text refers to player character. Blue t
 
 
 # Endings:
-There are 2 major routes you can take in Chapter 1. You can stay with Tot, the patroller, or join the Highway Patrol with Hunter. To get the true "good" ending, you must play two routes in order (Tot (leave ending) and  Hunter (leave ending)). To not die, always shoot the mimics in the chest.
+There are 2 major routes you can take in Chapter 1. You can stay with Tot, the patroller, or join the Highway Patrol with Hunter. To get the true "good" ending, you must play two routes in order (Tot (leave ending) and  Hunter (leave ending)). To not die, simply shoot the mimics in the chest. There is no combat system in this game.
 
 
 Tot – exit ending 
